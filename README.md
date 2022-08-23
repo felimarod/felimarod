@@ -22,3 +22,4 @@ I'm a full stack developer...
 ## 🛠 Skills
 C++, Java, Python, Javascript, HTML, CSS, MySQL, Linux
 
+[![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felimarod)]()
