@@ -1,8 +1,3 @@
-
-## 🚀 About Me
-I'm a full stack developer...
-
-
 # Hi, I'm Felipe! 👋
 
 
@@ -16,9 +11,9 @@ I'm a full stack developer...
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on Group GNU/Linux University of District(GLUD) located on Bogotá, Colombia.
 
-🧠 I'm currently learning about Angular with strappy.
+🧠 I'm currently learning about NextJS.
 
-🤔 I'm looking for help with the creation of a Distro Linux.
+🤔 I'm looking for help with the creation of [RadioGLUD webpage](https://gitlab.com/GLUD/radioglud/pagina-web/radioglud-webpage) .
 ## 🛠 Skills
 C++, Java, Python, Javascript, HTML, CSS, MySQL, Linux
 
